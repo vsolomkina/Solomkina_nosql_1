@@ -1,5 +1,5 @@
 // queries/part3_queries.js
-// Запуск: mongosh "mongodb+srv://valeriia_goit:Lerika123@cluster0.fkmtr2j.mongodb.net/?appName=Cluster0" --file queries/part3_queries.js
+// Запуск: mongosh "mongodb+srv://valeriia_goit:dsKwC9cbk0F8GhX1@cluster0.fkmtr2j.mongodb.net/?appName=Cluster0" --file queries/part3_queries.js
 
 const db = db.getSiblingDB("spotify");
 
